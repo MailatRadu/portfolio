@@ -3,6 +3,7 @@ layout: post
 title:  "Tamen loca"
 date:   2016-07-01 12:56:22 +0300
 categories: jekyll update
+featured: true
 ---
 ## Formosa et Theseos aliter
 
