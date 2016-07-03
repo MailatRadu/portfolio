@@ -1,0 +1,15 @@
+.post-list {
+	@extend %clearfix;
+
+	list-style: none;
+}
+
+.post {
+	width: 50%;
+	float: left;
+	padding: 0 3em 1em;
+}
+
+.post-read-more-link {
+	text-align: center;
+}
