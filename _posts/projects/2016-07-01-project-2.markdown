@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Tamen loca"
+title:  "Project 2"
 date:   2016-07-01 12:56:22 +0300
 categories: project
+featured_image: "images/project.png"
 featured: true
 tags: design code layout
 ---

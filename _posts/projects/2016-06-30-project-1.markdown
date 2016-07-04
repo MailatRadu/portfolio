@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Quilibet tacetve etiamnum"
+title:  "Project 1"
 date:   2016-06-30 12:56:22 +0300
 categories: project
+featured_image: "images/project.png"
 tags: design code
 ---
 
