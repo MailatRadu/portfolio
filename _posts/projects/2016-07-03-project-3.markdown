@@ -2,7 +2,7 @@
 layout: post
 title:  "Et neci fuit"
 date:   2016-07-03 12:56:22 +0300
-categories: jekyll update
+categories: project
 ---
 
 ## Se unam obnoxius templa

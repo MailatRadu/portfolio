@@ -2,7 +2,7 @@
 layout: post
 title:  "Tenet Hymenaeus"
 date:   2016-07-3 12:56:22 +0300
-categories: jekyll update
+categories: blog
 tags: snippet layout
 ---
 

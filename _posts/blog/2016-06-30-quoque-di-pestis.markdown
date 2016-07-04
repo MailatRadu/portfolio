@@ -2,7 +2,7 @@
 layout: post
 title:  "Quoque Di pestis"
 date:   2016-06-30 12:56:22 +0300
-categories: jekyll update
+categories: blog
 tags: code
 ---
 
