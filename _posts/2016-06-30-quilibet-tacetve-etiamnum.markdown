@@ -3,6 +3,7 @@ layout: post
 title:  "Quilibet tacetve etiamnum"
 date:   2016-06-30 12:56:22 +0300
 categories: jekyll update
+tags: design code
 ---
 
 ## Madidos Cepheus ipsa longe Acoete caedis turbae
