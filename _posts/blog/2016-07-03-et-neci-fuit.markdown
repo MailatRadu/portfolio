@@ -3,6 +3,7 @@ layout: post
 title:  "Et neci fuit"
 date:   2016-07-03 12:56:22 +0300
 categories: blog
+tags: code inspiration
 ---
 
 ## Se unam obnoxius templa
