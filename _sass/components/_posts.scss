@@ -27,3 +27,26 @@
 		display: inline;
 	}
 }
+
+.post-header {
+	text-align:center;
+}
+
+.post-meta {
+	color: $blue-color;
+	font-size: $h4-font-size;
+}
+
+.post-title {
+	margin: 0;
+}
+
+.post-body {
+	width: 90%;
+	max-width: 50em;
+	margin: $h2-font-size auto;
+	h1,h2,h3,h4 {
+		margin: $h2-font-size auto;
+		max-width: 80%;
+	}
+}
